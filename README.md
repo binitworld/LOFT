@@ -1,7 +1,7 @@
-# CODSOFT
-# CodSoft Web Development
+# Loft
+# Loft Web Development
 
-Welcome to the CodSoft Web Development  repository. This repository serves as a central hub for your journey as a web development  at CodSoft. Here, you will find resources, projects, and guidelines to help you.
+Welcome to the Loft Web Development  repository. This repository serves as a central hub for your journey as a web development  at CodSoft. Here, you will find resources, projects, and guidelines to help you.
 
 ## Table of Contents
 
